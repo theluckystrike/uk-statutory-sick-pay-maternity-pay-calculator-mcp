@@ -1,0 +1,10 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "io.github.theluckystrike/uk-statutory-sick-pay-maternity-pay-calculator-mcp",
+  "title": "UK Statutory Sick Pay and Maternity Pay",
+  "description": "UK Statutory Sick Pay (April 2026 rules), Maternity Pay and National Living Wage from gov.uk.",
+  "version": "1.0.0",
+  "websiteUrl": "https://ukmoneycalc.com/calculators/maternity-pay/",
+  "repository": { "url": "https://github.com/theluckystrike/uk-statutory-sick-pay-maternity-pay-calculator-mcp", "source": "github" },
+  "remotes": [ { "type": "streamable-http", "url": "https://uk-statutory-sick-pay-maternity-pay-calculator-mcp.lipmichal.workers.dev/mcp" } ]
+}
